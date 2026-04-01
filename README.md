@@ -1,4 +1,5 @@
-#**🥥 Kerala Fat Loss Diet Planner**
+## 🥥 **Kerala Fat Loss Diet Planner**
+
 A smart web application built with Streamlit to generate personalized 7-day fat loss diet plans featuring healthy and traditional Kerala meals.
 
 
